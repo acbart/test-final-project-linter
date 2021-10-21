@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-final-project-linter/static/css/main.a617e044.chunk.css",
+    "main.js": "/test-final-project-linter/static/js/main.bb9ea2c6.chunk.js",
+    "main.js.map": "/test-final-project-linter/static/js/main.bb9ea2c6.chunk.js.map",
+    "runtime-main.js": "/test-final-project-linter/static/js/runtime-main.3d393650.js",
+    "runtime-main.js.map": "/test-final-project-linter/static/js/runtime-main.3d393650.js.map",
+    "static/js/2.e783bef8.chunk.js": "/test-final-project-linter/static/js/2.e783bef8.chunk.js",
+    "static/js/2.e783bef8.chunk.js.map": "/test-final-project-linter/static/js/2.e783bef8.chunk.js.map",
+    "static/js/3.d4ef96af.chunk.js": "/test-final-project-linter/static/js/3.d4ef96af.chunk.js",
+    "static/js/3.d4ef96af.chunk.js.map": "/test-final-project-linter/static/js/3.d4ef96af.chunk.js.map",
+    "index.html": "/test-final-project-linter/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/test-final-project-linter/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e783bef8.chunk.js.LICENSE.txt": "/test-final-project-linter/static/js/2.e783bef8.chunk.js.LICENSE.txt",
+    "static/media/logo.4bdbcf83.svg": "/test-final-project-linter/static/media/logo.4bdbcf83.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d393650.js",
+    "static/js/2.e783bef8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bb9ea2c6.chunk.js"
+  ]
+}
